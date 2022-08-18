@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Player.Api", "Player.Api\Player.Api.csproj", "{E099655A-4334-46E7-8970-B1F2CB38965D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrettoPall.Api", "Player.Api\PrettoPall.Api.csproj", "{E099655A-4334-46E7-8970-B1F2CB38965D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Player.Data", "Player.Data\Player.Data.csproj", "{EE25E63A-8C8E-4B67-AC7B-95A1A85CBE8B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrettoPall.Data", "Player.Data\PrettoPall.Data.csproj", "{EE25E63A-8C8E-4B67-AC7B-95A1A85CBE8B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
